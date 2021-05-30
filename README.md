@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 ### Copyright
 
 2014 Git Training
+
+Please Fork and issue pull for review
